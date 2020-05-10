@@ -8,3 +8,10 @@
 ## 关于架构
 
 我打算把文章都放在doc下，然后写文章所需要的插图等放在img下。
+
+## 关于地址
+
+目前这个仓库，我同时放在了[github](https://github.com)和[gitee](https://gitee.com)上面。gitee主要是方便国内的网络进行查看。以下是两个仓库的地址：
+
+* gitee: https://gitee.com/weizhiyi777/Reading_Paper
+* github: https://github.com/weizhiyi777/Reading_Paper
